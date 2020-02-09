@@ -1,0 +1,22 @@
+h1{
+    font-family: cursive;
+    text-align: center;
+     font-size: 40px;
+}
+form{
+    text-align: center;
+    border-style: solid;
+    font-size: 50px;
+    padding: 25px 50px 75px 100px;
+}
+
+input{
+    block-size: 50px;
+     width: 250px;
+}
+input[type="submit"]:hover{
+    background-color: goldenrod;
+}
+input[value="SAVE"]{
+    font-size: 30px;
+}
